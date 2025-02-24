@@ -23,10 +23,6 @@ I'm a **Computer Science and Engineering major at The Ohio State University**, p
 
 ### 🚀 Tech Stack:
 ![Languages](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
 ![Android](https://img.shields.io/badge/-Android-brightgreen?style=flat-square&logo=android)
 ![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=firebase)
-![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
-...
-
-### 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rithvik-n-kilaparthi&show_icons=true&theme=dark)
