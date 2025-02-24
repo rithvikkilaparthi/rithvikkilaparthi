@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 👋 Hi, I'm Rithvik Kilaparthi!
+I'm a **CS Engineer at The Ohio State University**, passionate about **software development, product management, and 3D mapping technologies**.
+
+- 🔭 Working on: **StudentGo App, 3D room scanning tool**
+- 💡 Interested in **mobile development, AI, and startups**
+- 🎓 Senior @ **Ohio State University**, graduating in **May 2025**
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/your-profile) | Email: your.email@gmail.com
+
+### 🚀 Tech Stack:
+![Languages](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+![Android](https://img.shields.io/badge/-Android-brightgreen?style=flat-square&logo=android)
+![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=firebase)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
+...
+
+### 📊 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rithvik-n-kilaparthi&show_icons=true&theme=dark)
