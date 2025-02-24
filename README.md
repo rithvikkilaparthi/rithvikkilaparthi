@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **rithvikkilaparthi/rithvikkilaparthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ## 👋 Hi, I'm Rithvik Kilaparthi!
-I'm a **CS Engineer at The Ohio State University**, passionate about **software development, product management, and 3D mapping technologies**.
+I'm a **Computer Science and Engineering major at The Ohio State University**, passionate about **software development and technology consulting**.
 
 - 🔭 Working on: **StudentGo App, 3D room scanning tool**
 - 💡 Interested in **mobile development, AI, and startups**
