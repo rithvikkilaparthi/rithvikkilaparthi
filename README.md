@@ -19,7 +19,7 @@ I'm a **Computer Science and Engineering major at The Ohio State University**, p
 
 - 🔭 Most recently worked on: **StudentGo App, Babylon 3D Scanner**
 - 🎓 Senior @ **Ohio State University**, graduating in **May 2025**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/rithvik-kilaparthi/) | Email: rithvikk@hotmail.com
+- 📫 Reach me at: Email: rithvikk@hotmail.com | [LinkedIn](https://www.linkedin.com/in/rithvik-kilaparthi/)
 
 ### 🚀 Tech Stack:
 ![Languages](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
