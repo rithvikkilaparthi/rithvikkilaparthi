@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 ## 👋 Hi, I'm Rithvik Kilaparthi!
 I'm a **Computer Science and Engineering major at The Ohio State University**, passionate about **software development and technology consulting**.
 
-- 🔭 Working on: **StudentGo App, 3D room scanning tool**
-- 💡 Interested in **mobile development, AI, and startups**
+- 🔭 Most recently worked on: **StudentGo App, Babylon 3D Scanner**
 - 🎓 Senior @ **Ohio State University**, graduating in **May 2025**
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/your-profile) | Email: your.email@gmail.com
+- 📫 Reach me at: [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rithvik-kilaparthi/)) | Email: rithvikk@hotmail.com
 
 ### 🚀 Tech Stack:
 ![Languages](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
